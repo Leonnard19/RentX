@@ -1,0 +1,97 @@
+
+> rentx@1.0.0 dev
+> ts-node-dev --inspect --transpile-only --ignore-watch node_modules --respawn src/shared/infra/http/server.ts
+
+[INFO] 14:21:59 ts-node-dev ver. 1.1.6 (using ts-node ver. 9.1.1, typescript ver. 4.2.4)
+Running on port 3333
+
+> rentx@1.0.0 dev
+> ts-node-dev --inspect --transpile-only --ignore-watch node_modules --respawn src/shared/infra/http/server.ts
+
+[INFO] 14:23:02 ts-node-dev ver. 1.1.6 (using ts-node ver. 9.1.1, typescript ver. 4.2.4)
+Running on port 3333
+[INFO] 14:30:13 Restarting: /usr/app/src/config/auth.ts has been modified
+Running on port 3333
+[INFO] 14:58:36 Restarting: /usr/app/src/config/auth.ts has been modified
+Running on port 3333
+
+> rentx@1.0.0 dev
+> ts-node-dev --inspect --transpile-only --ignore-watch node_modules --respawn src/shared/infra/http/server.ts
+
+[INFO] 21:05:31 ts-node-dev ver. 1.1.6 (using ts-node ver. 9.1.1, typescript ver. 4.2.4)
+Running on port 3333
+
+> rentx@1.0.0 dev
+> ts-node-dev --inspect --transpile-only --ignore-watch node_modules --respawn src/shared/infra/http/server.ts
+
+[INFO] 21:18:47 ts-node-dev ver. 1.1.6 (using ts-node ver. 9.1.1, typescript ver. 4.2.4)
+Running on port 3333
+
+> rentx@1.0.0 dev
+> ts-node-dev --inspect --transpile-only --ignore-watch node_modules --respawn src/shared/infra/http/server.ts
+
+[INFO] 21:19:37 ts-node-dev ver. 1.1.6 (using ts-node ver. 9.1.1, typescript ver. 4.2.4)
+Running on port 3333
+[INFO] 21:24:26 Restarting: /usr/app/src/shared/container/providers/index.ts has been modified
+Running on port 3333
+[INFO] 21:31:14 Restarting: /usr/app/src/shared/container/providers/index.ts has been modified
+[ERROR] 21:31:20 Error: Cannot register a type name as a singleton without a "to" token
+
+> rentx@1.0.0 dev
+> ts-node-dev --inspect --transpile-only --ignore-watch node_modules --respawn src/shared/infra/http/server.ts
+
+[INFO] 21:33:16 ts-node-dev ver. 1.1.6 (using ts-node ver. 9.1.1, typescript ver. 4.2.4)
+[ERROR] 21:33:24 Error: Cannot register a type name as a singleton without a "to" token
+[INFO] 21:33:43 Restarting: /usr/app/src/shared/infra/http/app.ts has been modified
+Running on port 3333
+[INFO] 21:34:49 Restarting: /usr/app/src/shared/container/providers/index.ts has been modified
+Running on port 3333
+[INFO] 21:38:49 Restarting: /usr/app/src/modules/cars/useCases/uploadCarImage/UploadCarImageUseCase.ts has been modified
+Running on port 3333
+[INFO] 21:39:22 Restarting: /usr/app/src/modules/accounts/useCases/updateUserAvatar/UpdateUserAvatarUseCase.ts has been modified
+Running on port 3333
+[INFO] 21:52:53 Restarting: /usr/app/src/shared/infra/http/routes/users.routes.ts has been modified
+Running on port 3333
+[INFO] 21:53:41 Restarting: /usr/app/src/shared/infra/http/routes/users.routes.ts has been modified
+Running on port 3333
+[INFO] 22:02:13 Restarting: /usr/app/src/modules/accounts/useCases/profileUserUseCase/ProfileUserUseCase.ts has been modified
+Running on port 3333
+
+> rentx@1.0.0 dev
+> ts-node-dev --inspect --transpile-only --ignore-watch node_modules --respawn src/shared/infra/http/server.ts
+
+[INFO] 22:21:04 ts-node-dev ver. 1.1.6 (using ts-node ver. 9.1.1, typescript ver. 4.2.4)
+Running on port 3333
+[INFO] 22:22:32 Restarting: /usr/app/src/shared/infra/http/app.ts has been modified
+Running on port 3333
+
+> rentx@1.0.0 dev
+> ts-node-dev --inspect --transpile-only --ignore-watch node_modules --respawn src/shared/infra/http/server.ts
+
+[INFO] 18:12:13 ts-node-dev ver. 1.1.6 (using ts-node ver. 9.1.1, typescript ver. 4.2.4)
+Running on port 3333
+
+> rentx@1.0.0 dev
+> ts-node-dev --inspect --transpile-only --ignore-watch node_modules --respawn src/shared/infra/http/server.ts
+
+[INFO] 00:09:03 ts-node-dev ver. 1.1.6 (using ts-node ver. 9.1.1, typescript ver. 4.2.4)
+Running on port 3333
+
+> rentx@1.0.0 dev
+> ts-node-dev --inspect --transpile-only --ignore-watch node_modules --respawn src/shared/infra/http/server.ts
+
+[INFO] 23:33:46 ts-node-dev ver. 1.1.6 (using ts-node ver. 9.1.1, typescript ver. 4.2.4)
+Running on port 3333
+[INFO] 23:41:15 Restarting: /usr/app/src/shared/container/providers/MailProvider/implementations/SESMailProvider.ts has been modified
+[INFO] 23:41:25 Restarting: /usr/app/src/shared/container/providers/MailProvider/implementations/SESMailProvider.ts has been modified
+Running on port 3333
+[INFO] 23:52:00 Restarting: /usr/app/src/shared/container/providers/MailProvider/implementations/SESMailProvider.ts has been modified
+Running on port 3333
+[INFO] 23:54:57 Restarting: /usr/app/src/shared/container/providers/MailProvider/implementations/SESMailProvider.ts has been modified
+Running on port 3333
+
+> rentx@1.0.0 dev
+> ts-node-dev --inspect --transpile-only --ignore-watch node_modules --respawn src/shared/infra/http/server.ts
+
+[INFO] 23:30:45 ts-node-dev ver. 1.1.6 (using ts-node ver. 9.1.1, typescript ver. 4.2.4)
+Running on port 3333
