@@ -5,7 +5,6 @@ import { ListCarsController } from '../../../../modules/cars/useCases/listCars/L
 import { UploadCarImageController } from '../../../../modules/cars/useCases/uploadCarImage/UploadCarImageController';
 import { ensureAdmin } from '../middlewares/ensureAdmin';
 import { ensureAuthenticated } from '../middlewares/ensureAuthenticated';
-import { categoriesRoutes } from './categories.routes';
 
 import uploadConfig from '../../../../config/upload';
 import multer from 'multer';
