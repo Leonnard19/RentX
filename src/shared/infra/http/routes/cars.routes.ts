@@ -1,13 +1,14 @@
 import { Router } from 'express';
+import multer from 'multer';
+
+import uploadConfig from '../../../../config/upload';
 import { CreateCarController } from '../../../../modules/cars/useCases/createCar/CreateCarController';
 import { CreateCarSpecificationController } from '../../../../modules/cars/useCases/createCarSpecification/CreateCarSpecificationController';
 import { ListCarsController } from '../../../../modules/cars/useCases/listCars/ListCarsController';
 import { UploadCarImageController } from '../../../../modules/cars/useCases/uploadCarImage/UploadCarImageController';
+
 import { ensureAdmin } from '../middlewares/ensureAdmin';
 import { ensureAuthenticated } from '../middlewares/ensureAuthenticated';
-
-import uploadConfig from '../../../../config/upload';
-import multer from 'multer';
 
 const carRoutes = Router();
 

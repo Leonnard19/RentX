@@ -1,6 +1,6 @@
 import { Repository, getRepository } from 'typeorm';
 import { ICreateUserTokenDTO } from '../../../dtos/ICreateUserTokenDTO';
-import { IUsersTokensRepository } from '../../../repositories/IUsersTokensRepository';
+import { IUsersTokensRepository } from '../../../../accounts/repositories/IUsersTokensRepository';
 import { UserTokens } from '../entities/UserTokens';
 
 class UsersTokensRepository implements IUsersTokensRepository {
